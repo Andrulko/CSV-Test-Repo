@@ -1,0 +1,4 @@
+files:
+  - source: /Sample.csv
+    translation: '%original_file_name%'
+    scheme: 'identifier,source_phrase,fr,es-ES'
