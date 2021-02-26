@@ -1,6 +1,0 @@
-files:
-  - source: /**/*.csv
-    translation: '%original_file_name%'
-    first_line_contains_header: 1
-    scheme: 'identifier,source_phrase,fr,es-ES,ar,el,nl,it'
-    update_option: update_as_unapproved
